@@ -1,0 +1,9 @@
+c:\users\vs2017\documents\visual studio 2015\Projects\Classtask\Classtask\bin\Debug\Classtask.exe.config
+c:\users\vs2017\documents\visual studio 2015\Projects\Classtask\Classtask\bin\Debug\Classtask.exe
+c:\users\vs2017\documents\visual studio 2015\Projects\Classtask\Classtask\bin\Debug\Classtask.pdb
+c:\users\vs2017\documents\visual studio 2015\Projects\Classtask\Classtask\obj\Debug\Classtask.csprojResolveAssemblyReference.cache
+c:\users\vs2017\documents\visual studio 2015\Projects\Classtask\Classtask\obj\Debug\Classtask.Form1.resources
+c:\users\vs2017\documents\visual studio 2015\Projects\Classtask\Classtask\obj\Debug\Classtask.Properties.Resources.resources
+c:\users\vs2017\documents\visual studio 2015\Projects\Classtask\Classtask\obj\Debug\Classtask.csproj.GenerateResource.Cache
+c:\users\vs2017\documents\visual studio 2015\Projects\Classtask\Classtask\obj\Debug\Classtask.exe
+c:\users\vs2017\documents\visual studio 2015\Projects\Classtask\Classtask\obj\Debug\Classtask.pdb
